@@ -1,3 +1,6 @@
+ANJANA SANTHOSH
+ROLL NO 10
+
 Non Preemptive Priority CPU Scheduling in C
 
 Input:
